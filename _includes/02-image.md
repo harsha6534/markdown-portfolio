@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+!([image of harsha6534] (https://octodex.github.com/images/harsha6534.png))
